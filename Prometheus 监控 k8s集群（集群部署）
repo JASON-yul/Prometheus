@@ -1,3 +1,8 @@
+参考：https://www.jianshu.com/p/4326703999c2
+     https://www.jianshu.com/p/db15f4994de3
+     https://www.jianshu.com/p/db15f4994de3
+
+
 一、用daemonset方式部署 node-exporter 组件
 vim node-exporter.yaml
 
@@ -426,3 +431,4 @@ Copy ID to Clibord
 Download JSON
 
 
+后面建具体表格
