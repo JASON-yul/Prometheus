@@ -104,8 +104,8 @@ metadata:
 data:
   prometheus.yml: |
     global:
-      scrape_interval:     15s
-      evaluation_interval: 15s
+      scrape_interval:     15s                      #抓取采用数据的时间间隔，抓取频率
+      evaluation_interval: 15s                      #监控数据规则的评估频率
     scrape_configs:
     - job_name: 'kubernetes-apiservers'
       kubernetes_sd_configs:
