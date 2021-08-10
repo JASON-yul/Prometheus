@@ -4,10 +4,13 @@ https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/
       node-export使用0.18.0.linux-amd64
       
       dashbord使用13978
-  
- # vim JSON
-      
-      {
+注：配置是要取消代理
+unset http_proxy
+unset https_proxy
+
+# vim JSON
+
+{
   "__inputs": [],
   "__requires": [
     {
