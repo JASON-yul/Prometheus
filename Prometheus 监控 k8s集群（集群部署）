@@ -1,7 +1,7 @@
 参考：https://www.jianshu.com/p/4326703999c2
      https://www.jianshu.com/p/db15f4994de3
      https://www.jianshu.com/p/db15f4994de3
-
+https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/prometheus-quick-start/use-node-exporter
 
 一、用daemonset方式部署 node-exporter 组件
 vim node-exporter.yaml
