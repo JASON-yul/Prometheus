@@ -7,7 +7,8 @@ https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/
 注：配置是要取消代理
 unset http_proxy
 unset https_proxy
-
+各监控模块地址：https://blog.csdn.net/xiaohuangren_123/article/details/107567422
+               https://prometheus.io/download/
 # vim JSON
 
 {
