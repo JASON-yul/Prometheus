@@ -1,4 +1,7 @@
-https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/prometheus-quick-start/use-node-exporter
+（经典）https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/prometheus-quick-start/use-node-exporter
+第一章和第八章（重要）
+
+
 
 一、规划：prometheus使用2.25.2.linux-amd64
       node-export使用0.18.0.linux-amd64
