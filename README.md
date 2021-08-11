@@ -8,3 +8,6 @@
 
 https://www.cnblogs.com/Heroge/p/13569554.html(大老版)
 
+
+（经典）https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/prometheus-quick-start/use-node-exporter
+第一章和第八章（重要）
